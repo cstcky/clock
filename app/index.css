@@ -1,0 +1,17 @@
+div {
+  display: inline-flex; 
+}
+
+#root{
+  display: inline-flex; 
+}
+
+#main{
+  padding-top: 1em;  
+}
+
+#container{
+  display: inline; 
+}
+
+
